@@ -1,0 +1,44 @@
+.label-font
+{
+font-weight: bold;
+margin:1% auto;
+}
+.container
+{
+    background-color: #f9fcff;
+    background-image: linear-gradient(147deg, #f9fcff 0%, #dee4ea 74%);
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+body
+{
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+}
+button
+{
+    margin-top: 3%;
+}
+.form-check-label
+{
+    margin-left:5%;
+}
+textarea
+{
+    resize: none;
+}
+.label-font-rad
+{
+    font-weight: bold;
+    margin-right: 3%;
+}
+h1
+{
+    text-align: center;
+    font-weight: lighter;
+    color:rgba(192, 192, 192,0.808);
+    text-shadow: #808080;
+    text-decoration: underline;
+
+}

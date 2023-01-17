@@ -1,0 +1,60 @@
+body
+{
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+}
+.btn-show
+{
+    margin-left:42%;
+    margin-right:40%;
+    width:18%;
+    margin-top:3%;
+}
+.main 
+{
+    width: 40%;
+    margin: 5% 30%;
+
+}
+.btnshowcr
+{
+    margin-left:46.75%;
+    margin-right:46.75%;
+    width:6.5%;
+    margin-top:1%;
+}
+.divide
+{
+    width:25%;
+    margin-left:38%;
+}
+.form-check-label
+{
+    font-size: larger;
+    margin-left: 5%;
+}
+.halve
+{
+    width:24%;
+    margin-left:38%;
+    margin-right:38%;
+}
+.head4
+{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color:rgba(201, 200, 197,0.8);
+    text-shadow: #808080;
+}
+.tab
+{
+    font-size: 20px;
+    padding : 10px;
+    border:3px groove grey;
+}
+.tab th,td
+{
+    border:1px groove grey;
+    padding:10px;   
+}
